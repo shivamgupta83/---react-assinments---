@@ -1,0 +1,28 @@
+.q{
+    margin-top: 250px;
+    margin-left: 400px;
+
+}
+.displayNumber{
+    margin-left: 68px;
+    border-color: aqua;
+    border-radius: 100px;
+}
+.i{
+    border: 10px;
+    border-radius: 5px;
+    color:green;
+    background-color: bisque;
+
+    border-color: blue;
+}
+.d{
+    color:red;
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding:1px;
+    border: 10px;
+    border-color: rgb(33, 29, 44);
+    margin-left: 10px;
+
+}
